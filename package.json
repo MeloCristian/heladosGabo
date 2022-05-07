@@ -1,0 +1,19 @@
+{
+  "name": "heladeriasgabo",
+  "version": "1.0.0",
+  "description": "Pagina web de emprendimiento de heladeria, johana y cristian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeloCristian/heladeriasgabo.git"
+  },
+  "author": "Cristian Melo Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeloCristian/heladeriasgabo/issues"
+  },
+  "homepage": "https://github.com/MeloCristian/heladeriasgabo#readme"
+}
